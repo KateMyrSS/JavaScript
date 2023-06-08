@@ -72,19 +72,3 @@ const secondsInDay = hoursInDay*secondsInHour;
 let countDayofMontf = parseInt(prompt('Please enter day in month'));
 //alert(`SecondsInHour = ${secondsInHour} , secondsInDay =  ${secondsInDay}, secondInMonth is ${countDayofMontf*secondsInDay}`)
 document.write(`secondsInHour = ${secondsInHour} , secondsInDay =  ${secondsInDay}, secondInMonth is ${countDayofMontf*secondsInDay}`)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

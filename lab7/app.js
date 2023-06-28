@@ -12,7 +12,7 @@
 
 // setTimeout(() => {
 //   newWindow.close();
-// }, 2000);
+// }, 6000);
 
 //task2
 //console.log("task2");
